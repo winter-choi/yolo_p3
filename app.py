@@ -6,7 +6,7 @@ import numpy as np
 import os
 import urllib.request
 
-st.title("책상 잡동사니 AI 클린 가이드:  ###실시간 이미지 처리 객체별 강조")
+st.title("책상 잡동사니 AI 클린 가이드: <br>실시간 이미지 처리 객체별 강조")
 
 # --- [추가] YOLOv3 가중치 파일 자동 다운로드 로직 ---
 def download_yolo_weights():
