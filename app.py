@@ -7,7 +7,7 @@ import os
 import urllib.request
 
 st.markdown("책상 잡동사니 AI 클린 가이드: :dog::dog2::poodle:")
-st.markdown(실시간 이미지 처리 :red[객체별] :orange[강조]")
+st.markdown("실시간 이미지 처리 :red[객체별] :orange[강조]")
 
 # --- [추가] YOLOv3 가중치 파일 자동 다운로드 로직 ---
 def download_yolo_weights():
