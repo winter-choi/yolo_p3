@@ -6,8 +6,8 @@ import numpy as np
 import os
 import urllib.request
 
-st.markdown(":dog2: **책상 잡동사니 :blue-background[AI] 클린 가이드** :poodle:")
-st.markdown("실시간 이미지 처리 :red[객체별] :orange[강조] :rainbow:")
+st.markdown(":dog2: **우리 교실 '클린 지킴이' :blue-background[AI] 만들기** :poodle:")
+st.markdown(":blue-background[AI]시각 지능 기반 :rainbow['스마트 클린 존'] :rainbow:")
 
 # --- [추가] YOLOv3 가중치 파일 자동 다운로드 로직 ---
 def download_yolo_weights():
